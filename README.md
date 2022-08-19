@@ -7,4 +7,4 @@ In the second part of my introductory physics course at Dordt University, we hav
 
 Out of a desire to incoporate more computational material in my labs, and inspired by the [Partnership for Integration of Computation into Undergraduate Physics](https://www.compadre.org/PICUP/resources/), this is a first attempt at a computational activity, building off of student's first exposure to the simple pendulum in lab. Students solve the ordinary differential equation for the simple harmonic oscillator using Euler's method two ways: one with Excel, to acquaint themselves with the method using a familiar software, then again with Python, which provides a better environment to play with the discritization of the numerical solution. 
 
-This repository is set up to run the lab itself; the full lab with intructor solutions is a private repository available by request.
+This repository is set up to run the lab itself; the full lab with intructor solutions is available by request.
